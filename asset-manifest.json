@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Book-Store-with-Reducers/static/css/main.6a062c54.chunk.css",
+    "main.js": "/Book-Store-with-Reducers/static/js/main.b9bff9d4.chunk.js",
+    "main.js.map": "/Book-Store-with-Reducers/static/js/main.b9bff9d4.chunk.js.map",
+    "runtime-main.js": "/Book-Store-with-Reducers/static/js/runtime-main.921e1106.js",
+    "runtime-main.js.map": "/Book-Store-with-Reducers/static/js/runtime-main.921e1106.js.map",
+    "static/js/2.f1b28e9e.chunk.js": "/Book-Store-with-Reducers/static/js/2.f1b28e9e.chunk.js",
+    "static/js/2.f1b28e9e.chunk.js.map": "/Book-Store-with-Reducers/static/js/2.f1b28e9e.chunk.js.map",
+    "index.html": "/Book-Store-with-Reducers/index.html",
+    "precache-manifest.142a4fa0bd831d364d9c006c7ec01511.js": "/Book-Store-with-Reducers/precache-manifest.142a4fa0bd831d364d9c006c7ec01511.js",
+    "service-worker.js": "/Book-Store-with-Reducers/service-worker.js",
+    "static/css/main.6a062c54.chunk.css.map": "/Book-Store-with-Reducers/static/css/main.6a062c54.chunk.css.map",
+    "static/js/2.f1b28e9e.chunk.js.LICENSE.txt": "/Book-Store-with-Reducers/static/js/2.f1b28e9e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.921e1106.js",
+    "static/js/2.f1b28e9e.chunk.js",
+    "static/css/main.6a062c54.chunk.css",
+    "static/js/main.b9bff9d4.chunk.js"
+  ]
+}
